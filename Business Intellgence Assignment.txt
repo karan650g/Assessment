@@ -1,0 +1,118 @@
+Business Intelligence Assignment
+
+==============================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------
+1) With Jio coming in, we have seen an influx of internet users from Tier 2 and Tier 3.
+Video/Content apps like Youtube and Tiktok have seen a huge growth while
+Amazon/Flipkart haven’t seen similar.
+
+What could be the reason for it? Feel free to use any publicly available data to support
+your hypotheses.
+------------------------------------------------------------------------------------------------------------------------------
+
+Reliance Jio was the only company to have a broadband spectrum all over India which was used to provide 
+4G srvices to the users. Jio was introduced in 2016 and all the services such as voice call, video call
+and data along with other interesting appplications was made publicly free without any restriction for the
+rest of the year. Later the prices of the services were made cheap whcih lured many users acroos India.
+Especially, people from Tier 2 and Tier 3 were riveted by the service that they were using. Jio expanded
+and grew more in the following years and became the top telecom operator with around 330 million subscribers
+in 2019.
+
+The primary reasons why Jio was able to create a huge customer base is because they were not only
+providing and concentrating over the telecom services, rather they aimed at expanding their horizons by 
+introducing new technologies such as Mobile Applications, Games, Artificial Intelligence solutions, 
+Automotive processing and much more. Unlike the other telecom companies such as Airtel and Vodafone who
+only focused on providing the telecom services.
+
+With this new era of technology, users were able to access the Internet that too in a time-effcient manner.
+Many of the digital entertainment Applications like Tiktok and Youtube saw a growth in their user base. The 
+primary why this happened is because people from Tier 2 and Tier 3 were much interested in entertainment and knowledge
+by accessing those mentioned platforms. Either they were enjoying or they were learning.
+But, this resulted in a change of their Lifestyle and not a change in their living situations.
+With user base exponentially growing on the Video/Content Application, it did not have any significant effect
+on the service companies like Flipkart/Amazon as these companies provide product and services in exhange of money.
+The users were only interested in exploiting the already freely/cheap available services  rather than spending money from their
+pocket, to buy things that were not necessary for them. Also, Tier 2 and Tier 3 people trust less on the products and 
+services provided over the Internet and they choose to stay in the zone of already established local markets.
+
+In conclusion, the primary factor for the growth of Video/Content Applications was the cost factor.
+Users were not willing to spend their money to access services, they were interested mostly when these  services 
+were provided either at a very low cost or free to them as is the case of Tiktok and Youtube. At the same time 
+the applications were more engaging for the users.
+
+==================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------
+2) New Onboarding Design at Nymtra
+Nymtra is India’s leading fashion app. The Product team revamped the app’s Onboarding
+Flow on 31st July that introduced the following features:
+● New walkthrough with 3 screens highlighting - extensive catalogue, free
+shipping for the
+first-order, and easy returns
+● Added a ‘Skip Login’ option to the login screen at the end of the walkthrough
+● Added a new “10,000+ items under ₹999” banner on the home screen.
+----------------------------------------------------------------------------------------------------------------------------------
+
+From the data provided there are several inferences that could support the claim that the new onboarding flow of the App
+was a Successfull change in the Application. However, these claims are purely hypothetical and does not guarantee if this
+change was really a good idea.
+
+The table shows the data from the month of May to the month of October. We can clearly see the differences between the information 
+that is shown for the months before August and information after August, which can be used to analyze the effectiveness of the new features.
+For our First obervation we look on the Number of new installs. The new installs have gradually increased by time. Either this happened because
+people got to know about the new features such as free delivery, guest login. But if we look closely we can see that the new installs were already
+increasing in a linear fashion. So we can say that there is no significant effect on the number of new installs every month even if the people 
+got to know about the new features. 
+
+The second point observation is of the number of First Time Buyers(FTBs). By carefully analyzing the proportion of new installs and the number of FTBs
+it can be seen that after July ,i.e when new features were introduced, the number of FTBs were increased significantly as their proportion corresponding 
+to the new installs have approximately doubled. The reasons for this could be the guest login feature or the Free delivery for First time customers.
+Guest login can help people to shop without actually logging into the application which is sometime hectic and time cosuming for the customers. SO they
+end up exiting the App without doing any shopping. On the other hand even if the logging is not an issue for the customer, the deal of getting free 
+delivery lures the customer into buying product. Since no one wants to pay for delivery as it is a redundant and unnecessary cost. The third feature which
+shows that there are 10,000+ products under Rs999 can also be a contributing factor because it encourages the customer to buy products at reasonable prices.
+
+Consequently the Total Revenue generated from the First Time Buyers(FTBs) also increased. However, the Revenue genrated is less in comparision the Revenue generated 
+before the Month of August if we analyze the Revenue from a Statistical point of view. The main reason for this can be the introduction of the free delivery for 
+first time users, and products under 999 because more people would go for products that have reasonable prices and at the same time there is no cost of delivery.
+The Last observation which analyzes FTBs who bought products for the second time strongly supports that the Free delivery features was the most prominent among the three
+Because even if there are products available under Rs999. The proportion of the FTBs who bought for the second time has significantly decreased in comparision to 
+the total number of FTBs that for the months after July.So if we had to decide over which feature contributed most overall for the onboarding flow, we can say the free delivery would comes on top.
+
+Therefore by analyzing the data, it can be concluded the addition of features and revamping the onboarding flow did have a positive effect on the Company's Business if the goal
+of the Company was to Grow as well as make profit at the same time.
+
+===================================================================================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) Personalised Recommendations at FilmiStar
+Part A:
+FilmiStar is India’s #1 app for watching movies. The Product team was tasked with
+designing a new carousel on the home screen that will show personalised movie
+recommendations bas
+Questions:
+1) What will be the change in user behaviour once this feature is introduced?
+2) What should be the goals and metrics for this feature?
+3) How should this feature be launched and evaluated?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1) Since different users have different choices and preferences for movie genres. Having a personalized recommendation will surely benefit both the user as well as the FilmiStar App. The users get 
+to see the movies of their choice, hence they feel more satisfied and happy with the movie watching App. On the other hand, the FilmiStar company will generate more revenue as more and more users 
+will be interested in availing this benefit and consequently total number of users will increase. Also the existing users may be engaged more on the App leading to an increase in total engagement
+time.
+
+2) The goals of this feature is to provide customer satisfaction primarily. With time, more and more movies, series, songs are getting introduced and it is becoming difficult for people to decide on
+what things to watch as everyone has limited time. Having a recommendation sytem can enhance user experience as it will save time for deciding and searching the whole movie base of the App. Rather,
+the App will focus on presenting movies with preferences matching of the Customers as high priority.
+Talking about the metrics of this feature, there could be several factors that would contribute on deciding over the working of the recommendation system.
+ - Genres           Action, Comedy, Romance, Suspense etc. 
+ - Movie Origin     Hollywood, Tollywood, Bollywood etc.
+ - Movie rating     IMDB rating, Rotten tomatoes rating etc.
+ - Cast             Actors, Actresses, Director, etc
+ - Content          5+ years of Age, 13+ years of Age, 18+ years of Age.
+ - Release Date     whether it is a newly released movie or an old one.
+
+3) This feature can be launched for testing in beta mode, where the performance of this feature will be tracked and compared with the already established system. 
+ To evaluate the effectiveness of this feature the engagement time of the user must be tracked which will tell whether the user is spending more time on the App or not.
+ Also a feedback feature can be introduced which will enable the user to provide a rating to the app based on their user experience. Lastly, we can analyze whether the
+number of users are increasing in proportion to the already established ones, if this is the case, then it signisfies that more and more people are reffering to each
+other and the feature is working well.
